@@ -22,12 +22,6 @@ Análise por Faixa de Distância e Horário.
 
 Detecção de Corridas Suspeitas.
 
-images/: prints de tela dos dashboards, para ilustrar no README.
-
-linkedin/: material para post no LinkedIn (texto e descrições de imagem).
-
-PDF/: relatório final em PDF com todas as visualizações e contexto.
-
 🚀 Como Usar
 
 Clone o repositório:

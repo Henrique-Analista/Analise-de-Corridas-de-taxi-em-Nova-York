@@ -4,7 +4,8 @@ Este repositório apresenta um projeto completo de análise de dados de corridas
 
 📋 Conteúdo do Projeto
 
-dados/: scripts para download ou amostras do dataset (yellow_tripdata_2025-01.parquet e versão limpa em CSV).
+dados/: Link para os dados originais do site do governo de Nova-York: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page,
+Link para as pastas com os arquivos: https://drive.google.com/drive/folders/1e3gI3Ko1H4cv_JP6HC9j5_1lXXZuC1IS?usp=sharing
 
 notebooks/: Jupyter notebooks com código em Python para:
 
@@ -58,9 +59,3 @@ Outliers: >2,5 milhões de registros inconsistentes foram identificados e filtra
 🤝 Contribuições
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request para melhorias no código, dashboards ou documentações.
-
-
-
-📜 Licença
-
-Este projeto está licenciado sob a MIT License.

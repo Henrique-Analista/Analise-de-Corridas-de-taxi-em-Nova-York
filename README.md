@@ -5,7 +5,7 @@ Este repositório apresenta um projeto completo de análise de dados de corridas
 📋 Conteúdo do Projeto
 
 dados/: Link para os dados originais do site do governo de Nova-York: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page,
-Link para as pastas com os arquivos: https://drive.google.com/drive/folders/1e3gI3Ko1H4cv_JP6HC9j5_1lXXZuC1IS?usp=sharing
+Link para as pastas com os arquivos(dados e relatório): https://drive.google.com/drive/folders/1e3gI3Ko1H4cv_JP6HC9j5_1lXXZuC1IS?usp=sharing
 
 notebooks/: Jupyter notebooks com código em Python para:
 
